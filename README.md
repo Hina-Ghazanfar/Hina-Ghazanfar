@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Hina Ghazanfar
 💡 About Me:
-🎓 Pursuing MSc in Artificial Intelligence
+🎓 MSc in Artificial Intelligence
 👀 Interested in Machine Learning, NLP, Computer Vision and Deep Learning
 🌱 Currently learning BERT, Word2Vec, and other NLP techniques. 
    Working on Project of AI for Health.
